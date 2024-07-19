@@ -15,12 +15,12 @@
   "connections": [
     {
       "map": "MAP_RUSTBORO_CITY",
-      "offset": 0,
+      "offset": 10,
       "direction": "up"
     },
     {
       "map": "MAP_ROUTE105",
-      "offset": 0,
+      "offset": 10,
       "direction": "down"
     },
     {
