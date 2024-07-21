@@ -15,7 +15,7 @@
   "connections": [
     {
       "map": "MAP_ROUTE104",
-      "offset": 0,
+      "offset": -10,
       "direction": "up"
     },
     {
@@ -39,7 +39,7 @@
       "movement_range_x": 0,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "6",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Luis",
       "flag": "0"
     },
@@ -52,7 +52,7 @@
       "movement_range_x": 7,
       "movement_range_y": 0,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "3",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Dominik",
       "flag": "0"
     },
@@ -65,7 +65,7 @@
       "movement_range_x": 0,
       "movement_range_y": 7,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "3",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Beverly",
       "flag": "0"
     },
@@ -78,7 +78,7 @@
       "movement_range_x": 0,
       "movement_range_y": 5,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "3",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Imani",
       "flag": "0"
     },
@@ -104,7 +104,7 @@
       "movement_range_x": 0,
       "movement_range_y": 7,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "3",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Foster",
       "flag": "0"
     },
@@ -117,7 +117,7 @@
       "movement_range_x": 0,
       "movement_range_y": 2,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "2",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Josue",
       "flag": "0"
     },
@@ -130,7 +130,7 @@
       "movement_range_x": 0,
       "movement_range_y": 2,
       "trainer_type": "TRAINER_TYPE_NORMAL",
-      "trainer_sight_or_berry_tree_id": "4",
+      "trainer_sight_or_berry_tree_id": "0",
       "script": "Route105_EventScript_Andres",
       "flag": "0"
     }
